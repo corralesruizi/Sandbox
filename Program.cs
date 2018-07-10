@@ -6,7 +6,7 @@ namespace Sandbox
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Carbon Based Lifeforms is too good");
         }
     }
 }
